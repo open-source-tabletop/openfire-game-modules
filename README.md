@@ -23,3 +23,10 @@ https://github.com/open-source-tabletop/openfire-gm-warhammer-40k
 Wasteland Rally is a post-apocalyptic vehicle combat Game Module.
 
 https://github.com/open-source-tabletop/openfire-gm-wasteland-rally
+
+
+## Halo Firefight
+
+A skirmish game set in the Halo Universe
+
+https://github.com/open-source-tabletop/openfire-gm-halo
