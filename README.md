@@ -6,7 +6,7 @@ Find out more at https://github.com/open-source-tabletop/openfire
 
 | Module Name | Description |
 | :---------- | :---------- |
-| [Dark Millennium](#) | |
+| [Dark Millennium](https://github.com/open-source-tabletop/openfire-gm-dark-millennium) | Dark Millenium is a grim dark setting for the Open Fire system with three separate modules, allowing players to experience 3 very different scales of combat. |
 | [Devils Bluff](https://github.com/open-source-tabletop/openfire-gm-devils-bluff) | Devils Bluff is a wild west skirmish with a focus on campaign play. |
 | [Guilds & Glory](https://github.com/open-source-tabletop/openfire-gm-guilds-and-glory) | Guilds & Glory is a story driven cooperative fantasy adventure game module for the Open Fire system. |
 | [Halo Firefight](https://github.com/open-source-tabletop/openfire-gm-halo) | A skirmish game set in the Halo Universe. |
